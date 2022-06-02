@@ -1,1 +1,1 @@
-This project is about C - Hello, World project
+C - Hello, World
